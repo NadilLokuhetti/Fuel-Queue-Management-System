@@ -1,0 +1,67 @@
+
+Queue 1: 
+1) position details :
+   -> First name : harry
+   -> Last name : harry
+   -> vehicle No : CAX-2020
+   -> Number of litres : 10
+
+2) position  is empty
+3) position  is empty
+4) position  is empty
+5) position  is empty
+6) position  is empty
+
+Queue 2: 
+1) position details :
+   -> First name : nadil
+   -> Last name : lokuhetti
+   -> vehicle No : CAX-0000
+   -> Number of litres : 15
+
+2) position  is empty
+3) position  is empty
+4) position  is empty
+5) position  is empty
+6) position  is empty
+
+Queue 3: 
+1) position details :
+   -> First name : sarith
+   -> Last name : wijesingha
+   -> vehicle No : AAA-9393
+   -> Number of litres : 8
+
+2) position  is empty
+3) position  is empty
+4) position  is empty
+5) position  is empty
+6) position  is empty
+
+Queue 4: 
+1) position details :
+   -> First name : tom
+   -> Last name : tom
+   -> vehicle No : CQE-2929
+   -> Number of litres : 2
+
+2) position  is empty
+3) position  is empty
+4) position  is empty
+5) position  is empty
+6) position  is empty
+
+Queue 5: 
+1) position details :
+   -> First name : suhan
+   -> Last name : ahangama
+   -> vehicle No : PH-3243
+   -> Number of litres : 10
+
+2) position  is empty
+3) position  is empty
+4) position  is empty
+5) position  is empty
+6) position  is empty
+
+The remaining fuel stock is: [6555]

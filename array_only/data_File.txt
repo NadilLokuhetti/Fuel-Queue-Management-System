@@ -1,0 +1,26 @@
+
+Queue 1: 
+position 1 filled by nadil
+position 2 filled by sarith
+position 3 filled by sandeep
+position 4 filled by ravindu
+position 5 filled by harry
+position 6 filled by saveen
+
+Queue 2: 
+position 1 filled by rukshan
+position 2 filled by suhas
+position 3 filled by induranga
+position 4 filled by isira
+position 5 filled by -
+position 6 filled by -
+
+Queue 3: 
+position 1 filled by akindu
+position 2 filled by aakif
+position 3 filled by -
+position 4 filled by -
+position 5 filled by -
+position 6 filled by -
+
+The remaining fuel stock is: [6480]

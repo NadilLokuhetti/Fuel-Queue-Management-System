@@ -1,0 +1,57 @@
+
+Queue 1: 
+1) position details :
+   -> First name : nadil
+   -> Last name : lokuhetti
+   -> vehicle No : CAs-0202
+   -> Number of litres : 10
+
+2) position  is empty
+3) position  is empty
+4) position  is empty
+5) position  is empty
+6) position  is empty
+
+Queue 2: 
+1) position details :
+   -> First name : rukshan
+   -> Last name : dais
+   -> vehicle No : AAA-2222
+   -> Number of litres : 10
+
+2) position  is empty
+3) position  is empty
+4) position  is empty
+5) position  is empty
+6) position  is empty
+
+Queue 3: 
+1) position details :
+   -> First name : sarith
+   -> Last name : wisesingha
+   -> vehicle No : CAA-2929
+   -> Number of litres : 20
+
+2) position  is empty
+3) position  is empty
+4) position  is empty
+5) position  is empty
+6) position  is empty
+
+Queue 4: 
+1) position  is empty
+2) position  is empty
+3) position  is empty
+4) position  is empty
+5) position  is empty
+6) position  is empty
+
+Queue 5: 
+1) position  is empty
+2) position  is empty
+3) position  is empty
+4) position  is empty
+5) position  is empty
+6) position  is empty
+
+The remaining fuel stock is: [6560]
